@@ -11,4 +11,4 @@ for i in range(len(list)):
     print(list)
     list.remove(list[j-1])
     j = j-1
-# Here we use append method to remove the last element of the array
+# Here we use append method to remove the last element of the array :.
